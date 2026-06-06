@@ -56,5 +56,7 @@ The model classifies images into one of the following 10 categories:
 
 ## NOTE: I have added 3 sample grayscale images to test the project if it's functioning as intended.
 ```
-
+sample_bag.png
+sample_pullover.png
+sample_trousers.png
 ```
