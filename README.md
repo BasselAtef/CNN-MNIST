@@ -1,5 +1,3 @@
-# DecodeLabs-Project4-CNN-MNIST
-
 # Fashion-MNIST Classification using CNN (Keras)
 
 This repository contains a complete Jupyter Notebook that builds, trains, and evaluates a Convolutional Neural Network (CNN) to classify clothing items from the Fashion-MNIST dataset using Keras/TensorFlow. It also includes a pipeline for running inference on custom local images.
